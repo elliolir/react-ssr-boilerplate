@@ -4,7 +4,8 @@
   "description": "react-ssr-boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack",
+    "serve": "node ssr.bundle.js"
   },
   "repository": {
     "type": "git",
