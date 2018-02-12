@@ -1,0 +1,34 @@
+{
+  "name": "react-ssr-example",
+  "version": "1.0.0",
+  "description": "react-ssr-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimatiBart/react-ssr-example.git"
+  },
+  "author": "DimatiBart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimatiBart/react-ssr-example/issues"
+  },
+  "homepage": "https://github.com/DimatiBart/react-ssr-example#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "ignore-loader": "^0.1.2",
+    "restify": "^6.3.4",
+    "webpack": "^3.11.0",
+    "webpack-node-externals": "^1.6.0"
+  }
+}
